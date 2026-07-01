@@ -1,0 +1,13 @@
+month_name,SUM(sales_amount)
+January,190310159.00
+March,178091467.00
+April,176231220.00
+June,175135370.00
+February,171609723.00
+May,169896321.00
+December,98831452.00
+August,97319391.00
+July,91077253.00
+September,91045648.00
+November,89263453.00
+October,81514238.00
