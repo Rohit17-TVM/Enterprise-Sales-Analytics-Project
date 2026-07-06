@@ -25,6 +25,7 @@ The implemented workflow improves operational visibility and supports business i
 
 ## Project Architecture
 
+```text
 Raw Excel Dataset
 ↓
 Power Query ETL
@@ -38,6 +39,7 @@ SQL Reporting & Analytics
 Advanced Analytics
 ↓
 Tableau KPI Dashboard
+```
 
 
 ## Technology Stack
