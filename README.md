@@ -1,4 +1,4 @@
-# Containerized Sales Analytics & KPI Reporting Platform
+# Enterprise Sales & Operational Analytics Platform
 
 ## Project Overview
 This project demonstrates a containerized analytics workflow using Docker, MySQL, SQL and Tableau Public.The solution transforms raw operational sales data into actionable business intelligence insights through KPI reporting, profitability analysis, and dashboard-driven visualization.
@@ -23,6 +23,23 @@ An enterprise analytics workflow was designed using:
 
 The implemented workflow improves operational visibility and supports business intelligence reporting.
 
+## Project Architecture
+
+Raw Excel Dataset
+↓
+Power Query ETL
+↓
+Cleaned Dataset
+↓
+Dockerized MySQL Database
+↓
+SQL Reporting & Analytics
+↓
+Advanced Analytics
+↓
+Tableau KPI Dashboard
+
+
 ## Technology Stack
 
 - Microsoft Excel
@@ -42,13 +59,30 @@ The implemented workflow improves operational visibility and supports business i
 - Interactive Tableau dashboard development
 - Enterprise-style analytics workflow integration
 
+## Advanced Analytics
+
+The project incorporates advanced operational analytics techniques including:
+
+* Sales Trend Analysis
+* Forecasting Analysis
+* Pareto Product Contribution Analysis
+* Root Cause Analysis (RCA)
+* KPI-driven operational insights
+
+
 ## SQL Analytics & Reporting
 
 The project includes:
-- Regional Sales Analysis
-- Monthly Revenue Trend Analysis
-- Category Profitability Analysis
-- Top Product Performance Analysis
+
+* Regional Sales Analysis
+* Monthly Revenue Trend Analysis
+* Category Profitability Analysis
+* Top Product Performance Analysis
+* Forecast Analysis
+* Pareto Product Contribution Analysis
+* Payment Mode Distribution Analysis
+
+
 
 ## Business Benefits
 
@@ -74,3 +108,6 @@ The project includes:
 - Medium: https://medium.com/@rohitpb17
 - Email: rohitpb17@gmail.com
 
+## License
+
+This project is intended for educational, portfolio, and demonstration purposes.
